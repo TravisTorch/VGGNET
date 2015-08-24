@@ -12,6 +12,6 @@ This is a model used in the [paper](http://arxiv.org/abs/1506.04579)
   Wei Liu, Andrew Rabinovich, Alexander C. Berg
   arXiv:1506.04579
   
-This is a network modified from VGGNet(https://gist.github.com/ksimonyan/211839e770f7b538e2d8#file-readme-md) by making it fully 
+This is a network modified from [VGGNet](https://gist.github.com/ksimonyan/211839e770f7b538e2d8#file-readme-md) by making it fully 
 convolutional and also subsampling parameters from fc6 and fc7 layers. This is useful when using it to finetue for segmentation.
 For example, ParseNet() shows how to use it to finetune for semantic segmentation problem.
