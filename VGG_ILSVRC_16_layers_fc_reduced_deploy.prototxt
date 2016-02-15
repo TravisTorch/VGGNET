@@ -288,6 +288,8 @@ layers {
   convolution_param {
     num_output: 1024
     kernel_size: 3
+    dilation: 3
+    pad: 3
   }
 }
 layers {
