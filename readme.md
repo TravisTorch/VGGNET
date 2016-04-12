@@ -1,7 +1,7 @@
 ---
 name: Fully convolutional reduced VGGNet
 caffemodel: VGG_ILSVRC_16_layers_fc_reduced.caffemodel
-caffemodel_url: http://vision.cs.unc.edu/wliu/projects/ParseNet/VGG_ILSVRC_16_layers_fc_reduced.caffemodel
+caffemodel_url: http://cs.unc.edu/~wliu/projects/ParseNet/VGG_ILSVRC_16_layers_fc_reduced.caffemodel
 sha1: 97eb7c469c5097f51a0f9a944f4a5731f470eee2
 gist_id:
 ---
